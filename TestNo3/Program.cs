@@ -11,6 +11,8 @@ namespace TestNo3
         static void Main(string[] args)
         {
             Console.WriteLine("Hi, my name is Korg. I'm kind of like the leader here.");
+            Console.WriteLine("I'M made Of roCKs. yOU DoN'T neeD To bE AFraId unless YoU'RE MAdE oF scIssOrs.");
+
         }
     }
 }
